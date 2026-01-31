@@ -51,7 +51,7 @@ Pivot Analysis: A detailed matrix view of Fat Content performance across differe
 Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/blinkit-sql-analysis.git
+git clone https://github.com/your-NVeeranjineyulu1/blinkit-sql-analysis.git
 Import the Data: Use the provided .csv file (if applicable) and import it into your SQL Server instance as blinkit_data.
 
 Run the Scripts: Execute the analysis_queries.sql file to see the results of the cleaning and KPI generation.
